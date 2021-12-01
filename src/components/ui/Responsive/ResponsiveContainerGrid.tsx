@@ -1,4 +1,4 @@
-import { Grid } from "@material-ui/core";
+import { Grid } from "@mui/material";
 import { makeStyles } from "@mui/styles";
 import { FC } from "react";
 import ResponsiveConstants from "./ResponsiveConstants";
